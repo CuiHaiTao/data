@@ -831,7 +831,7 @@ TADVC	I'll wait here till the rain stops.
 TADVC	I'll wait here still the rain stops.
 TADVC	You can't go home until you finish your work.
 TADVC	You can't go home till you finish your work.
-TADVC	As the weather went on the weather got worse.
+TADVC	As the weather went on the weather got worse.
 WADVC	And where there is shale there is likely to be oil.
 WADVC	Everywhere they went, they were warmly received.
 WADVC	Fill in the blanks with articles where it is necessary.
